@@ -174,7 +174,7 @@ This makes the Wallace Tree architecture suitable for **high-performance arithme
 ## 👨‍🎓 Author & Course Information
 
 * **Author:** Vishal Kumar Shaw
-* **Roll No:** 24114105
+* **Enrollment No:** 24114105
 * **Course:** Computer Organization and Architecture (COA)
 * **Instructor:** **Prof. Rajat Sadhukhan**
 
